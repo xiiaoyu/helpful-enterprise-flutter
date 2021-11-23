@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206005326705",
+    "project_id": "helpful-a4b19",
+    "storage_bucket": "helpful-a4b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206005326705:android:2b096915a8837242495cd0",
+        "android_client_info": {
+          "package_name": "xiiaoyu.helpful_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206005326705-gt6fvfsjl05suh78kp1a3fk8v0lik6io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCltCEDeljpITOHVzv4KRFCvjNlPU2CeFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206005326705-gt6fvfsjl05suh78kp1a3fk8v0lik6io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
